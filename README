@@ -1,0 +1,6 @@
+http://support.udemy.com/forums/167053-v3-new-site-feeback/suggestions/2965270-increased-speed-watching
+http://support.udemy.com/forums/148334-user-ideas/suggestions/2967798-restore-the-variable-speeds-for-watching-courses
+
+Udemy.com V3 doesn't support variable speed video playback. I can't stand listening to most video at 1.0x but fortunately Udemy V3 uses the HTML5 <video> element so it's super easy to adjust playback speed anyways.
+
+<a href="javascript:void((function(){document.getElementsByTagName('video')[0].playbackRate=prompt('How fast do you want to go?', '1.618');})());">drag this bookmarklet</a> to your browser's bookmark toolbar to use.
